@@ -1,6 +1,10 @@
 # UPIIT-AR
 
+<<<<<<< HEAD
 ![](/Sources/UPIIT.jpg)
+=======
+![](/Sources/PlazaBicentenario.jfif)
+>>>>>>> 06ad19e71d0409cbfd96dcb36fe3133f448ebb91
 
 [![Generic badge](https://img.shields.io/badge/Made%20with-CSharp-rgb(1,143,204).svg)](https://shields.io/)
 
